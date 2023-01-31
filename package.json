@@ -1,0 +1,20 @@
+{
+  "name": "caching_dns_blockchain_gateway",
+  "version": "1.0.0",
+  "description": "A Blockchain to DNS gatway with caching.",
+  "main": "gateway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dns",
+    "blockchain",
+    "polygon",
+    "domain",
+    "caching",
+    "cache",
+    "gateway"
+  ],
+  "author": "Ashwin Dixit <ashwin@ownlifeful.com>",
+  "license": "GPL-3.0"
+}
