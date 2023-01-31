@@ -8,7 +8,9 @@ To be able to resolve a .crypto domain to an IP address, one would have to run t
 
 All the usual web2 domains, such as .com, would continue to function as usual. Lookups for .crypto would fall to our server.
 
-This simple DNS change could be done via a browser plugin.
+This simple DNS change could be done via a thin browser plugin.
 
 
 ***Dedication:*** Melody Sandy
+
+—Ashwin Dixit <ashwin at ownlifeful dot com>
