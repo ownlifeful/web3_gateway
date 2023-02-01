@@ -10,7 +10,6 @@
     "type": "git",
     "url": "https://github.com/ownlifeful/web3_gateway.git"
   },
-
   "keywords": [
     "dns",
     "blockchain",
@@ -21,5 +20,9 @@
     "gateway"
   ],
   "author": "Ashwin Dixit <ashwin@ownlifeful.com>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dns": "^0.2.2",
+    "polygon": "^1.0.2"
+  }
 }
